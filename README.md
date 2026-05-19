@@ -1,4 +1,4 @@
-# SIMA (Sistema Inteligente de Monitoramento Ambiental)
+# GRAMA (Gerenciamento Remoto e Autônomo de Monitoramento Ambiental)
 > Integrantes:
 * Thiago Sobral de Alvarenga RM: 562695
 * Pedro Miranda Campos Riato RM: 562117
